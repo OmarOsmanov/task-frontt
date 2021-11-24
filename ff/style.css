@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-image: url(../ff/1616748730606.png);
+    background-repeat: no-repeat;
+    background-position-x: top;
+    height: 310px;
+}
+
+#qisa{
+    color: white;
+    padding: 250px 20px;
+    font-size: 50px;
+    font-weight: 500;
+    text-indent: 15px;
+}
+
+#black{
+    background: rgb(12, 11, 11);
+    padding: 30px;
+}
+.menu__list{
+    display: flex;
+}
+div .text{
+    padding: 10px 25px;
+    color: green;
+    
+}
+p{
+    padding: 10px 25px;
+    font-family: 'Poppins', sans-serif;
+}
+div .menu__list-item{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    text-indent: -15px;
+    font-family: 'Poppins', sans-serif;
+}
